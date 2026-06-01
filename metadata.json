@@ -1,0 +1,6 @@
+{
+  "name": "AlenVpn",
+  "description": "A modern and advanced VPN app to manage and connect WireGuard profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE"]
+}
